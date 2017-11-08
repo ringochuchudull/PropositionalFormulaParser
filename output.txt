@@ -1,0 +1,6 @@
+((qvp)>(qvr)) is a binary formula
+-((pvr)v(qvr)) is a negation
+((pvq)>(-p>--q)) is a binary formula
+-(p>(q>p)) is a negation
+(pv-q) is a binary formula
+-(pv-p) is a negation
