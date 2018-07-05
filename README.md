@@ -10,3 +10,6 @@ My general idea is to parse all formula like a binary tree recursively.
 3.parse the formula before the BC and after the BC
 
 ...
+This is a standard C program. Put your zero order formula in the index file.
+
+gcc the program and you should be go to go.
